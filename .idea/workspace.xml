@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1db77a65-c42e-4628-b33a-49b5b5d31e93" name="Default Changelist" comment="">
+    <list default="true" id="1db77a65-c42e-4628-b33a-49b5b5d31e93" name="Default Changelist" comment="Jenkins file updated 1">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.infra/Jenkins/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/.infra/Jenkins/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/GalaxyTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/GalaxyTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-GalaxyTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-GalaxyTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,38 +194,6 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="GalaxyTest - 2019.08.07 at 15h 13m 40s.xml">
-      <configuration name="GalaxyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest_isHandleQuestionTest - 2019.08.07 at 15h 14m 36s.xml">
-      <configuration name="GalaxyTest.isHandleQuestionTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest - 2019.08.07 at 15h 14m 45s.xml">
-      <configuration name="GalaxyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest_isHandleQuestionTest - 2019.08.07 at 15h 18m 55s.xml">
-      <configuration name="GalaxyTest.isHandleQuestionTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest_isHandleQuestionTest - 2019.08.07 at 15h 19m 14s.xml">
-      <configuration name="GalaxyTest.isHandleQuestionTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest - 2019.08.07 at 15h 19m 30s.xml">
-      <configuration name="GalaxyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest - 2019.08.07 at 15h 25m 32s.xml">
-      <configuration name="GalaxyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest_isHandleQuestionTest - 2019.08.07 at 16h 04m 49s.xml">
-      <configuration name="GalaxyTest.isHandleQuestionTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest - 2019.08.07 at 16h 05m 17s.xml">
-      <configuration name="GalaxyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest - 2019.08.07 at 16h 12m 32s.xml">
-      <configuration name="GalaxyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -233,6 +213,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Jenkins file updated" />
+    <MESSAGE value="Jenkins file updated 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jenkins file updated 1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GuideToGalaxy$GalaxyTest.ic" NAME="GalaxyTest Coverage Results" MODIFIED="1565704465216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="masterDetails">
     <states>
