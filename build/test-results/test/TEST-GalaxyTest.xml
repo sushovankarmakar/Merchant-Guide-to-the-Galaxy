@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GalaxyTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-08-13T13:54:32" hostname="RENTLAPT0021" time="0.591">
+<testsuite name="GalaxyTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-08-16T08:44:50" hostname="RENTLAPT0021" time="0.076">
   <properties/>
-  <testcase name="canRomanToArabicParser()" classname="GalaxyTest" time="0.114"/>
-  <testcase name="isHandleQuestionTest()" classname="GalaxyTest" time="0.283"/>
-  <testcase name="canParseQuestionStatement()" classname="GalaxyTest" time="0.01"/>
-  <testcase name="canParseWordToRomanNumeralStatement()" classname="GalaxyTest" time="0.092"/>
-  <testcase name="canWordToRomanParser()" classname="GalaxyTest" time="0.006"/>
-  <testcase name="checkMetalMap()" classname="GalaxyTest" time="0.039"/>
+  <testcase name="canRomanToArabicParser()" classname="GalaxyTest" time="0.036"/>
+  <testcase name="isHandleQuestionTest()" classname="GalaxyTest" time="0.02"/>
+  <testcase name="canParseQuestionStatement()" classname="GalaxyTest" time="0.004"/>
+  <testcase name="canParseWordToRomanNumeralStatement()" classname="GalaxyTest" time="0.002"/>
+  <testcase name="canWordToRomanParser()" classname="GalaxyTest" time="0.001"/>
+  <testcase name="checkMetalMap()" classname="GalaxyTest" time="0.002"/>
   <testcase name="canParseCreditsStatement()" classname="GalaxyTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
