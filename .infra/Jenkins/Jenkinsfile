@@ -5,6 +5,7 @@ pipeline {
             steps {
                 sh script: '''
                     echo "I am in build step"
+                    chmod +x gradlew
                     ./gradlew build
                 ''',
             label: "Building Project"
@@ -33,7 +34,8 @@ pipeline {
         {
             steps {
                 sh script: '''
-                    echo "I am building DockerImage ="
+                    echo "I am building DockerImage"
+                    docker build -t server_image:1.0 .
                 ''',
             label: "Building Docker Image"
             }
