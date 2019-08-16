@@ -46,7 +46,7 @@ pipeline {
             steps {
                 sh script: '''
                     echo "I am publishing DockerImage"
-                    docker login -u sushovankarmakar -p 4@226c$eSuso
+                    docker login -u sushovankarmakar -p sushovan1234
                     docker tag httpserver sushovankarmakar/httpserver_1.0
                     docker push sushovankarmakar/httpserver_1.0
                 ''',
