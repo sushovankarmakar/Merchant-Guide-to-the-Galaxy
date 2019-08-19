@@ -1,5 +1,6 @@
 plugins {
-    java
+    id("java")
+    id("org.sonarqube") version "2.7"
 }
 
 group = "com.tavisca.workshop.sushovan"
@@ -16,8 +17,8 @@ dependencies {
 }
 
 configure<JavaPluginConvention> {
-    sourceCompatibility = JavaVersion.VERSION_1_10
-    targetCompatibility = JavaVersion.VERSION_1_10
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
 }
 
 tasks.register<Test>("hidden-tests")

@@ -1,63 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1db77a65-c42e-4628-b33a-49b5b5d31e93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/MerchantGalaxy$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/MerchantGalaxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/QuestionStatementParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/RomanToArabicConversion$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/RomanToArabicConversion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/WordToCreditParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/WordToRomanParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/test/GalaxyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/GalaxyTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/hidden-tests/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/hidden-tests/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-GalaxyTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MerchantGalaxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuestionStatementParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RomanToArabicConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WordToCreditParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WordToRomanParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GalaxyTest.java" afterDir="false" />
+    <list default="true" id="1db77a65-c42e-4628-b33a-49b5b5d31e93" name="Default Changelist" comment="Jenkins file updated 1">
+      <change beforePath="$PROJECT_DIR$/.infra/Jenkins/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/.infra/Jenkins/Jenkinsfile" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,74 +13,11 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MerchantGalaxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="107" column="5" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/GalaxyTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="63" column="49" selection-start-line="63" selection-start-column="49" selection-end-line="63" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#canParseWordToRomanNumeralStatement#0;class#GalaxyTest#0" />
-                <element signature="method#canParseCreditsStatement#0;class#GalaxyTest#0" />
-                <element signature="method#canParseQuestionStatement#0;class#GalaxyTest#0" />
-                <element signature="method#canRomanToArabicParser#0;class#GalaxyTest#0" />
-                <element signature="method#canWordToRomanParser#0;class#GalaxyTest#0" />
-                <element signature="method#checkMetalMap#0;class#GalaxyTest#0" />
-                <element signature="method#isHandleQuestionTest#0;class#GalaxyTest#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/QuestionStatementParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/WordToCreditParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RomanToArabicConversion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -151,85 +34,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/build.gradle.kts" />
-        <option value="$PROJECT_DIR$/src/main/java/RomanToIntegerConvertion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/QuestionStatementParser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/WordToRomanToConversion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/WordToRomanParser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/WordToRomanConversion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/WordToCreditParser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RomanToIntegerConversion.java" />
-        <option value="$PROJECT_DIR$/src/test/java/GalaxyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MerchantGalaxy.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
-  </component>
+  <component name="ProjectId" id="1PMrmXxT6JY24V5ElMCqdAxRoOj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="GuideToGalaxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideToGalaxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuideToGalaxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideToGalaxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuideToGalaxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideToGalaxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuideToGalaxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideToGalaxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuideToGalaxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideToGalaxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="GuideToGalaxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GuideToGalaxy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -375,38 +181,6 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="GalaxyTest_isHandleQuestionTest - 2019.08.07 at 15h 07m 12s.xml">
-      <configuration name="GalaxyTest.isHandleQuestionTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest - 2019.08.07 at 15h 11m 19s.xml">
-      <configuration name="GalaxyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest - 2019.08.07 at 15h 11m 52s.xml">
-      <configuration name="GalaxyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest - 2019.08.07 at 15h 13m 40s.xml">
-      <configuration name="GalaxyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest_isHandleQuestionTest - 2019.08.07 at 15h 14m 36s.xml">
-      <configuration name="GalaxyTest.isHandleQuestionTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest - 2019.08.07 at 15h 14m 45s.xml">
-      <configuration name="GalaxyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest_isHandleQuestionTest - 2019.08.07 at 15h 18m 55s.xml">
-      <configuration name="GalaxyTest.isHandleQuestionTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest_isHandleQuestionTest - 2019.08.07 at 15h 19m 14s.xml">
-      <configuration name="GalaxyTest.isHandleQuestionTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest - 2019.08.07 at 15h 19m 30s.xml">
-      <configuration name="GalaxyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GalaxyTest - 2019.08.07 at 15h 25m 32s.xml">
-      <configuration name="GalaxyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -416,217 +190,26 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22768533" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3510467" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.29662523" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Gradle" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven" order="8" weight="0.32955465" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22768533" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.352657" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.29662523" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Gradle" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven" order="8" weight="0.32955465" />
-    </layout-to-restore>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/WordToRomanToConversion.java" />
-    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WordToRomanConversion.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="594" column="19" selection-start-line="594" selection-start-column="19" selection-end-line="594" selection-end-column="19" />
-          <folding>
-            <element signature="e#23587#23588#0" expanded="true" />
-            <element signature="e#23641#23642#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WZLP52YZ/MerchantGalaxy.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/WordToRomanParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/MerchantGalaxyAnother/MerchantGalaxy.java" />
-    <entry file="file://$USER_HOME$/Documents/MerchantGalaxyAnother/WordToRomanParser.java" />
-    <entry file="file://$USER_HOME$/Documents/MerchantGalaxyAnother/StatementToCreditTokenParser.java" />
-    <entry file="file://$USER_HOME$/Documents/MerchantGalaxyAnother/RomanToArabicConvertorTest.java" />
-    <entry file="file://$USER_HOME$/Documents/MerchantGalaxyAnother/RomanToArabicConverter.java" />
-    <entry file="file://$USER_HOME$/Documents/MerchantGalaxyAnother/GalaxyTest.java" />
-    <entry file="file://$PROJECT_DIR$/build/reports/tests/test/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1727">
-          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.5.1/42614557b2e0ebde4a545fc3e9954a9ea738229e/junit-platform-engine-1.5.1-sources.jar!/org/junit/platform/engine/support/hierarchical/ThrowableCollector.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.5.1/42614557b2e0ebde4a545fc3e9954a9ea738229e/junit-platform-engine-1.5.1-sources.jar!/org/junit/platform/engine/support/hierarchical/Node.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.5.1/42614557b2e0ebde4a545fc3e9954a9ea738229e/junit-platform-engine-1.5.1-sources.jar!/org/junit/platform/engine/support/hierarchical/NodeTestTask.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="843" selection-start-line="843" selection-end-line="843" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.5.1/4455e75918f8e56f766a95973d0c4797376af32c/junit-jupiter-engine-5.5.1-sources.jar!/org/junit/jupiter/engine/descriptor/TestMethodTestDescriptor.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="369" selection-start-line="369" selection-end-line="369" />
-          <folding>
-            <element signature="e#12901#12902#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/jdk/internal/loader/ClassLoaders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="189" selection-start-line="189" selection-end-line="189" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="498" selection-start-line="498" selection-end-line="498" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.5.1/4455e75918f8e56f766a95973d0c4797376af32c/junit-jupiter-engine-5.5.1-sources.jar!/org/junit/jupiter/engine/execution/InvocationInterceptorChain.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.5.1/4455e75918f8e56f766a95973d0c4797376af32c/junit-jupiter-engine-5.5.1-sources.jar!/org/junit/jupiter/engine/execution/MethodInvocation.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.5.1/65bfbe4ebcddf7351870140aa75164ea3e10249f/junit-platform-commons-1.5.1-sources.jar!/org/junit/platform/commons/util/ReflectionUtils.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/StringTokenizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="418" column="15" selection-start-line="418" selection-start-column="15" selection-end-line="418" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="2786" column="32" selection-start-line="2786" selection-start-column="25" selection-end-line="2786" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/GalaxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="63" column="49" selection-start-line="63" selection-start-column="49" selection-end-line="63" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#canParseWordToRomanNumeralStatement#0;class#GalaxyTest#0" />
-            <element signature="method#canParseCreditsStatement#0;class#GalaxyTest#0" />
-            <element signature="method#canParseQuestionStatement#0;class#GalaxyTest#0" />
-            <element signature="method#canRomanToArabicParser#0;class#GalaxyTest#0" />
-            <element signature="method#canWordToRomanParser#0;class#GalaxyTest#0" />
-            <element signature="method#checkMetalMap#0;class#GalaxyTest#0" />
-            <element signature="method#isHandleQuestionTest#0;class#GalaxyTest#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/QuestionStatementParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WordToCreditParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RomanToArabicConversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MerchantGalaxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="107" column="5" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Jenkins file updated" />
+    <MESSAGE value="Jenkins file updated 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jenkins file updated 1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GuideToGalaxy$GalaxyTest.ic" NAME="GalaxyTest Coverage Results" MODIFIED="1565704465216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="masterDetails">
     <states>

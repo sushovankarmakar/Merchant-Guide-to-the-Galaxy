@@ -38,7 +38,7 @@ public class MerchantGalaxy {
         /*if(romanToIntegerMap.contains(wordAndRoman[1]).charAt(0)) {
             wordToRomanLetterMap.put(wordAndRoman[0],wordAndRoman[1].charAt(0));
         }*/
-        wordToRomanLetterMap.put(wordAndRoman[0], wordAndRoman[1].charAt(0));
+         wordToRomanLetterMap.put(wordAndRoman[0], wordAndRoman[1].charAt(0));
         if(isValidLiteral(wordAndRoman[1])) {
             wordToRomanLetterMap.put(wordAndRoman[0], wordAndRoman[1].charAt(0));
         }

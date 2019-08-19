@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GalaxyTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-08-07T09:55:31" hostname="RENTLAPT0021" time="0.081">
+<testsuite name="GalaxyTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-08-16T08:44:50" hostname="RENTLAPT0021" time="0.076">
   <properties/>
-  <testcase name="canRomanToArabicParser()" classname="GalaxyTest" time="0.027"/>
-  <testcase name="isHandleQuestionTest()" classname="GalaxyTest" time="0.038"/>
-  <testcase name="canParseQuestionStatement()" classname="GalaxyTest" time="0.003"/>
-  <testcase name="canParseWordToRomanNumeralStatement()" classname="GalaxyTest" time="0.001"/>
+  <testcase name="canRomanToArabicParser()" classname="GalaxyTest" time="0.036"/>
+  <testcase name="isHandleQuestionTest()" classname="GalaxyTest" time="0.02"/>
+  <testcase name="canParseQuestionStatement()" classname="GalaxyTest" time="0.004"/>
+  <testcase name="canParseWordToRomanNumeralStatement()" classname="GalaxyTest" time="0.002"/>
   <testcase name="canWordToRomanParser()" classname="GalaxyTest" time="0.001"/>
   <testcase name="checkMetalMap()" classname="GalaxyTest" time="0.002"/>
-  <testcase name="canParseCreditsStatement()" classname="GalaxyTest" time="0.001"/>
+  <testcase name="canParseCreditsStatement()" classname="GalaxyTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

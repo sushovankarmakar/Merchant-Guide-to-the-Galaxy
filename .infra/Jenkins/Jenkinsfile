@@ -1,0 +1,66 @@
+pipeline {
+    agent any
+    stages {
+        stage('Build') {
+            steps {
+                sh script: '''
+                    echo "I am in build step"
+                    chmod +x gradlew
+                    ./gradlew build
+                ''',
+            label: "Building Project"
+            }
+        }
+        stage('Test')
+        {
+            steps {
+                sh script: '''
+                    echo "I am in Test step"
+                    chmod +x gradlew
+                    ./gradlew test
+                ''',
+            label: "Running Unit Test Cases"
+            }
+        }
+        stage('Static Code Analysis')
+        {
+            steps {
+                sh script: '''
+                    echo "I am in Sonarqube scan" \
+                    ./gradlew sonarqube -Dsonar.projectKey=tavisca-skarmakar_MerchantGalaxy \
+                    -Dsonar.organization=tavisca-skarmakar \
+                    -Dsonar.host.url=https://sonarcloud.io \
+                    -Dsonar.login=d249dfe684fdcb685880bd64d30d1d3522864355
+                ''',
+            label: "Running Sonarqube Scan"
+            }
+        }
+        stage('Build DockerImage')
+        {
+            steps {
+                sh script: '''
+                    echo "I am building DockerImage"
+                    docker build -t httpserver .
+                ''',
+            label: "Building Docker Image"
+            }
+        }
+        stage('Publish DockerImage')
+        {
+            steps {
+                sh script: '''
+                    echo "I am publishing DockerImage"
+                    docker login -u sushovankarmakar -p sushovan1234
+                    docker tag httpserver sushovankarmakar/httpserver_1.0
+                    docker push sushovankarmakar/httpserver_1.0
+                ''',
+            label: "Publishing Docker Image"
+            }
+        }
+    }
+    post{
+       always{
+          deleteDir()
+       }
+    }
+}
