@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1db77a65-c42e-4628-b33a-49b5b5d31e93" name="Default Changelist" comment="Jenkins file updated 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.infra/Jenkins/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/.infra/Jenkins/Jenkinsfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
